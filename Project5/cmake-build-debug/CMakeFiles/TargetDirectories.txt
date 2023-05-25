@@ -1,0 +1,3 @@
+/Users/jjoh/Desktop/312h projects/Project5/cmake-build-debug/CMakeFiles/Project5.dir
+/Users/jjoh/Desktop/312h projects/Project5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jjoh/Desktop/312h projects/Project5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
